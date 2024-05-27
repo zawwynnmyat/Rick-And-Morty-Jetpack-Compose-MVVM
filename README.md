@@ -43,4 +43,5 @@ It has the functionalities described below.
 
 https://github.com/zawwynnmyat/Rick-And-Morty-Jetpack-Compose-MVVM/assets/94133457/a96860e1-dfa5-408d-9e8e-8cf241ef59d6
 
-
+## Support
+If you like this project, please do not forget to star the repo. Every single star would be highly appreciated.
