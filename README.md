@@ -31,9 +31,11 @@ It has the functionalities described below.
 * [Coil](https://coil-kt.github.io/coil/compose/) : to load network images
 
 
-## Implementation
+## The Implementation
 ### Screeshots
 ![Screenshot_1](https://github.com/zawwynnmyat/Rick-And-Morty-Jetpack-Compose-MVVM/blob/master/assets/rick%20and%20morty-images-0.jpg?raw=true)
 ![Screenshot_2](https://github.com/zawwynnmyat/Rick-And-Morty-Jetpack-Compose-MVVM/blob/master/assets/rick%20and%20morty-images-1.jpg?raw=true)
 ![Screenshot_3](https://github.com/zawwynnmyat/Rick-And-Morty-Jetpack-Compose-MVVM/blob/master/assets/rick%20and%20morty-images-2.jpg?raw=true)
 ![Screenshot_4](https://github.com/zawwynnmyat/Rick-And-Morty-Jetpack-Compose-MVVM/blob/master/assets/rick%20and%20morty-images-3.jpg?raw=true)
+
+
