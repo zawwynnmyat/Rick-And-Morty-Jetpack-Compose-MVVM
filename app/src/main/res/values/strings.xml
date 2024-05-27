@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Rick and Morty Universe</string>
+    <string name="characters"> All Characters</string>
+    <string name="search_chars"> Search Characters</string>
+    <string name="app_decription"> Rick and Morty Universe is an app to explore characters, episodes and locations involved in Rick and Morty animated series.</string>
+    <string name="title_activity_character_details">CharacterDetailsActivity</string>
+    <string name="app_version"> Version 1.0 </string>
+    <string name="api_name"> Powered by Rick and Morty API</string>
+    <string name="tech_name"> Made with Jetpack Compose and Kotlin</string>
+    <string name="title_activity_search_characters">SearchCharactersActivity</string>
+</resources>
