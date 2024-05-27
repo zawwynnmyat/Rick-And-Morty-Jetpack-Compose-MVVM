@@ -39,3 +39,7 @@ It has the functionalities described below.
 ![Screenshot_4](https://github.com/zawwynnmyat/Rick-And-Morty-Jetpack-Compose-MVVM/blob/master/assets/rick%20and%20morty-images-3.jpg?raw=true)
 
 
+
+https://github.com/zawwynnmyat/Rick-And-Morty-Jetpack-Compose-MVVM/assets/94133457/a96860e1-dfa5-408d-9e8e-8cf241ef59d6
+
+
