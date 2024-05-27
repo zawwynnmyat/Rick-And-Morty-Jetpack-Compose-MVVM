@@ -4,6 +4,8 @@ This android app, Rick and Morty Universe, utilized [Rick and Morty API](https:/
 the [Rick and Morty TV Series](https://www.imdb.com/title/tt2861424/), and it includes thorough information about characters, episodes and locations involved in the entire series.
 I built this app as a mean of my first Jetpack Compose portfolio.
 
+You can download apk file this app from [here](https://drive.google.com/file/d/1RFggZRFfL9zhomeeiP7nVETpF0S6lRMs/view?usp=sharing).
+
 ## Core Features
 It has the functionalities described below.
 * Revealing all characters, locations and episodes with **paginated API response**
@@ -30,7 +32,6 @@ It has the functionalities described below.
 * [System UI Controller](https://google.github.io/accompanist/systemuicontroller/) : System UI Controller provides easy-to-use utilities for updating the System UI bar colors within Jetpack Compose.
 * [Coil](https://coil-kt.github.io/coil/compose/) : to load network images
 
-
 ## The Implementation
 ### Screeshots
 ![Screenshot_1](https://github.com/zawwynnmyat/Rick-And-Morty-Jetpack-Compose-MVVM/blob/master/assets/rick%20and%20morty-images-0.jpg?raw=true)
@@ -38,7 +39,7 @@ It has the functionalities described below.
 ![Screenshot_3](https://github.com/zawwynnmyat/Rick-And-Morty-Jetpack-Compose-MVVM/blob/master/assets/rick%20and%20morty-images-2.jpg?raw=true)
 ![Screenshot_4](https://github.com/zawwynnmyat/Rick-And-Morty-Jetpack-Compose-MVVM/blob/master/assets/rick%20and%20morty-images-3.jpg?raw=true)
 
-
+## Video Demonstration
 
 https://github.com/zawwynnmyat/Rick-And-Morty-Jetpack-Compose-MVVM/assets/94133457/a96860e1-dfa5-408d-9e8e-8cf241ef59d6
 
